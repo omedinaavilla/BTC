@@ -1,0 +1,11 @@
+dash
+pandas
+plotly
+sqlalchemy
+yfinance
+psycopg2-binary
+statsmodels
+scikit-learn
+prophet
+scipy
+python-dotenv
